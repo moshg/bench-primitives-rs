@@ -1,5 +1,5 @@
 [package]
-name = "bench_div"
+name = "bench_primitives"
 version = "0.1.0"
 authors = ["mosh"]
 edition = "2018"

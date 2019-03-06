@@ -1,4 +1,4 @@
-# benchmark
+# bench-primitives-rs
 
 基本的な型に関するベンチマーク
 
