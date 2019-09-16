@@ -1,8 +1,13 @@
 [package]
 name = "bench_primitives"
 version = "0.1.0"
-authors = ["mosh <mosh21168@gmail.com>"]
+authors = ["mosh"]
 edition = "2018"
 
 [dependencies]
+criterion = "0.3"
 rand = "0.7"
+
+[[bench]]
+name = "benchmark"
+harness = false
